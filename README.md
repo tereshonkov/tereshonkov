@@ -1,4 +1,4 @@
-##   <p align="center">Hi there 👋 Im Dmitro </p>
+##   <p align="center">Hi there 👋 Im Dmytro </p>
 
 ### About me:
 Frontend developer
