@@ -1,7 +1,9 @@
 ##   <p align="center">Hi there 👋 Im Dmytro </p>
 
 ### About me:
-Frontend developer
+Fullstack Developer | Laravel • React • Next.js
+
+Architecture and performance-driven Fullstack Developer specializing in building scalable web applications. I bridge the gap between robust Laravel backends and modern React/Next.js frontends. With a background in official engineering, I have a proven track record of developing real-time analytical systems handling high-load data via WebSockets.
 
 ### Languages:
 <p >
