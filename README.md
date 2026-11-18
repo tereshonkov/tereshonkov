@@ -1,32 +1,26 @@
-##   <p align="center">Hi there 👋 Im Dmytro </p>
+<h2 align="center">Hi, I'm Dmytro 👋</h2> <p align="center"><b>WordPress & Full-Stack Developer</b> · Figma to WordPress · Laravel · React / Next.js<br>Kharkiv, Ukraine (UTC+2)</p> <p align="center"> <a href="https://www.upwork.com/freelancers/~01fccbea1290d6a31b"><img src="https://img.shields.io/badge/Hire_me_on-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a> </p>
+About me
 
-### About me:
-Fullstack Developer | Laravel • React • Next.js
+I turn Figma files, AI-generated designs and HTML templates into fast, editable WordPress sites: custom block themes (FSE), native Gutenberg blocks and ACF, no heavy page builders. When a project needs more than WordPress, I build the backend in Laravel (Filament admin panels, REST APIs) and the frontend in React / Next.js.
 
-Architecture and performance-driven Fullstack Developer specializing in building scalable web applications. I bridge the gap between robust Laravel backends and modern React/Next.js frontends. With a background in official engineering, I have a proven track record of developing real-time analytical systems handling high-load data via WebSockets.
+🎨 Figma / AI design → pixel-accurate, responsive WordPress theme
+⚡ Performance first: 90–100 on Google PageSpeed on my recent builds
+🛠 Laravel + Filament admin panels, CRMs and REST APIs
+⚛️ Next.js landing pages and web apps, deployed on Vercel
+Featured projects
+Project	Stack	Links
+STRATA: construction company site, FSE theme with 12 custom Gutenberg blocks	WordPress, FSE, PHP	code
+Portfolio theme: custom block theme built from scratch, 100/100 PageSpeed	WordPress, FSE, Gutenberg	code
+Furniture studio: custom WordPress theme with a kitchen price calculator	WordPress, ACF, JavaScript	code
+Deep Dive 1.0: online course landing page with a long "dive" scroll	Next.js, Tailwind CSS	live
+Inventory system: equipment tracking admin panel	Laravel, Filament	code
+Furniture studio (previous version): catalog site with a Nest.js API	Next.js, Nest.js	code
+Stack
+<p> <img src="https://skillicons.dev/icons?i=wordpress,php,laravel,js,ts,react,nextjs,nodejs,nestjs,tailwind,sass,mysql,figma,git,vercel" alt="Stack"> </p>
+Languages
 
-### Languages:
-<p >
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" width="22">
-  Ukrainian - Native
-</p>
-<p >
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="22 height="22">
-  English - A2
-</p>
+🇺🇦 Ukrainian: native · 🇬🇧 English: fluent
 
-### My stack and tools:
+How I work
 
-<table align="center">
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50"><br>HTML</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="35"><br>CSS</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50"><br>SCSS</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40"><br>JavaScript</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="50"><br>Node.js</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="50"><br>React</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="50"><br>Next.js</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" width="50"><br>PHP</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" width="50"><br>Laravel</td>
-  </tr>
-</table>
+Clear scope and a fixed price before we start · backup or staging before touching a live site · updates in writing · a short video guide at handover.
